@@ -21,6 +21,7 @@ class Landing extends Component{
         })
     return (
         <div className="Landing">
+        <h1>Welcome to The Event Management System</h1>
          <div className="Container">
              <div className="row"> 
                 {cards}
